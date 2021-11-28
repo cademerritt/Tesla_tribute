@@ -1,0 +1,25 @@
+body {
+  background-color: lightblue;
+  text-align: center;
+}
+ul li {
+  line-height: 1.6;
+  justify-content: center;
+}
+ul {
+  max-width: 500px;
+  margin: 0 auto 50px auto;
+}
+figure {
+  width: auto;
+  background-color: white;
+}
+#img-caption {
+  margin-top: 0;
+}
+#image {
+  margin-top: 3ch;
+}
+#img-div {
+  margin: 0 auto;
+}
